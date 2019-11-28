@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='README'/>
         <page name='01 - BubbleSort'/>
-        <page name='02 - '/>
-        <page name='03 -'/>
-        <page name='04 - '/>
-        <page name='05 - '/>
-        <page name='06 - '/>
-        <page name='07 - '/>
-        <page name='08 - '/>
-        <page name='09 - '/>
-        <page name='10 - '/>
-        <page name='11 - '/>
+        <page name='02 - CocktailSort'/>
+        <page name='03 - SelectionSort'/>
+        <page name='04 - InsertionSort'/>
+        <page name='05 - ShellSort'/>
+        <page name='06 - QuickSort'/>
+        <page name='07 - MergeSort'/>
+        <page name='08 - HeapSort'/>
+        <page name='09 - CountingSort'/>
+        <page name='10 - BucketSort'/>
+        <page name='11 - RadixSort'/>
     </pages>
 </playground>
